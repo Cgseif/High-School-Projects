@@ -1,0 +1,5 @@
+movies:SUPERMAN
+books:THE GREAT GATSBY
+places:LOS ANGELES
+people:KEVIN BACON
+movies:THE DARK KNIGHT
